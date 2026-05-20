@@ -1,1 +1,1 @@
-# Elias, Jonathan, and Tobias GUI
+# Elias, Jonathan, and Tobias' GUI
